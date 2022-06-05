@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+# Lior Yahav GitHub Page
 
+This page contain links to CV, repositories I've build and projects i took part in.
+
+
+
+# github pages setup 
 You can use the [editor on GitHub](https://github.com/lioryah/lioryah.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
